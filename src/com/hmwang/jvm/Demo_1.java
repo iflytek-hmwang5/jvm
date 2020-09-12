@@ -1,7 +1,7 @@
 package com.hmwang.jvm;
 
 /**
- * 演示栈内存溢出的情况
+ * 演示栈内存溢出的情况 测试demo
  */
 public class Demo_1 {
 
